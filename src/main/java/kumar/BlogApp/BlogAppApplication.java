@@ -9,6 +9,10 @@ public class BlogAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BlogAppApplication.class, args);
 		System.out.Println("Hi Raj..!");
+
+		System.out.Println("Hi Raj..!..2");
+
+
 	}
 
 }
