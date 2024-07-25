@@ -8,9 +8,9 @@ public class BlogAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BlogAppApplication.class, args);
-		System.out.Println("Hi Raj..! 1");
+		System.out.println("Hi Raj..! 1");
 
-		System.out.Println("Hi Raj..!..2");
+		System.out.println("Hi Raj..!..2");
 
 
 	}
